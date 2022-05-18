@@ -1,6 +1,6 @@
 - #sobre mim
 -
-- 👋 Hi, I’m @SamSim1709
+- 👋 Hi, I’m **@SamSim1709**
 - meu email de contato é samuel.simsen@gmail.pr.gov.br
 - 👀 I’m interested in program new languages
 - 🌱 I’m currently learning  recentemente a linguagem Javascript e Scratch
